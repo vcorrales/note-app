@@ -1,1 +1,1 @@
-A basic sample application to handle **notes**
+A basic sample application to handle **notes** and edited remotely.
